@@ -10,7 +10,7 @@ public class ViewConstant {
     public static final String LOG_FORM = "logform";
     public static final String LOGS = "logs";
 
-    
+
 
     public static final String USERROLE_FORM = "userroleform";
     public static final String USERROLES = "userRoles";
